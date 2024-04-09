@@ -14,7 +14,7 @@ Although they had predecessors in earlier military and administrative officers, 
 
 In the 1870s, samurai families comprised 5% of the population. As modern militaries emerged in the 19th century, the samurai were rendered increasingly obsolete and very expensive to maintain compared to the average conscript soldier. The Meiji Restoration ended their feudal roles, and they moved into professional and entrepreneurial roles. Their memory and weaponry remain prominent in Japanese popular culture.<br><br>
 
- <video src="file:///C:/Users/MalekA9251/Downloads/The%20Samurai.mp4" width="300" height="300" controls>Video Not Supported</video>
+ <video src="file:///C:/Users/MalekA9251/Downloads/The%20Samurai.mp4" width="240" height="240" controls>Video Not Supported</video>
 
 Terminology
 In Japanese, historical warriors are usually referred to as bushi (武士, [bɯ.ɕi]), meaning 'warrior', or buke (武家), meaning 'military family'. According to translator William Scott Wilson: "In Chinese, the character 侍 was originally a verb meaning 'to wait upon', 'accompany persons' in the upper ranks of society, and this is also true of the original term in Japanese, saburau. In both countries the terms were nominalized to mean 'those who serve in close attendance to the nobility', the Japanese term saburai being the nominal form of the verb." According to Wilson, an early reference to the word saburai appears in the Kokin Wakashū, the first imperial anthology of poems, completed in the early 900s.<br><br>
