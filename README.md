@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  <html>
    <head>
-     <title>Welcome to Samuraiosu Web!</title>
+     <title> Welcome to Samuraiosu Web! </title>
    </head>
 <body>
   <div id="Intro">
@@ -11,7 +11,7 @@
 
 Following the passing of a law in 1629, samurai on official duty were required to practice daishō (wear two swords). Samurai were granted kiri-sute gomen: the right to kill anyone of a lower class in certain situations. Some important samurai and other figures in Japanese history wanted others to believe all of them engaged combatants using bushido codes of martial virtues and followed various cultural ideals about how a samurai should act.<br><br>
 
-<img src="https://i.guim.co.uk/img/media/c32628c9673dad7056885dbb4be326009c6a9e5b/89_93_790_1288/master/790.jpg?width=700&quality=85&auto=format&fit=max&s=cacc41ee7519be46230eebc3256574b1"> width="240" height="240" controls>Image Not Supported/>
+<img src="https://i.guim.co.uk/img/media/c32628c9673dad7056885dbb4be326009c6a9e5b/89_93_790_1288/master/790.jpg?width=700&quality=85&auto=format&fit=max&s=cacc41ee7519be46230eebc3256574b1">image not supported</img>
 
 Although they had predecessors in earlier military and administrative officers, the samurai truly emerged during the Kamakura shogunate, ruling from c.1185 to 1333. They became the ruling political class, with significant power but also significant responsibility. During the 13th century, the samurai proved themselves as adept warriors against the invading Mongols. During the peaceful Edo period, 1603 to 1868, they became the stewards and chamberlains of the daimyo estates, gaining managerial experience and education.<br><br>
 
