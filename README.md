@@ -14,9 +14,12 @@ Although they had predecessors in earlier military and administrative officers, 
 
 In the 1870s, samurai families comprised 5% of the population. As modern militaries emerged in the 19th century, the samurai were rendered increasingly obsolete and very expensive to maintain compared to the average conscript soldier. The Meiji Restoration ended their feudal roles, and they moved into professional and entrepreneurial roles. Their memory and weaponry remain prominent in Japanese popular culture.<br><br>
 
+
  <video src="file:///C:/Users/MalekA9251/Downloads/The%20Samurai.mp4" width="240" height="240" controls>Video Not Supported</video>
 
-Terminology
+
+
+<strong><em>Terminology</strong></em>
 In Japanese, historical warriors are usually referred to as bushi (武士, [bɯ.ɕi]), meaning 'warrior', or buke (武家), meaning 'military family'. According to translator William Scott Wilson: "In Chinese, the character 侍 was originally a verb meaning 'to wait upon', 'accompany persons' in the upper ranks of society, and this is also true of the original term in Japanese, saburau. In both countries the terms were nominalized to mean 'those who serve in close attendance to the nobility', the Japanese term saburai being the nominal form of the verb." According to Wilson, an early reference to the word saburai appears in the Kokin Wakashū, the first imperial anthology of poems, completed in the early 900s.<br><br>
 
 In modern usage, bushi is often used as a synonym for samurai; however, historical sources make it clear that bushi and samurai were distinct concepts, with the former referring to soldiers or warriors and the latter referring instead to a kind of hereditary nobility. The word samurai is now closely associated with the middle and upper echelons of the warrior class. These warriors were usually associated with a clan and their lord, and were trained as officers in military tactics and grand strategy. While these samurai numbered less than 10% of then Japan's population, their teachings can still be found today in both everyday life and in modern Japanese martial arts.<br><br></p>\
