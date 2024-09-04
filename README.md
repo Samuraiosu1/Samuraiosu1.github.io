@@ -39,7 +39,7 @@ In modern usage, bushi is often used as a synonym for samurai; however, historic
   <body>
     <div id="welcome">
 <div class="embed-container">
-  <iframe src="https://rajaniraiyn.github.io/windows11/" frameborder="0" allowfullscreen="0" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" width="1225" height="700"></iframe>
+  <iframe src="https://rajaniraiyn.github.io/windows11/" frameborder="0" allowfullscreen="0" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" width="1280" height="640"></iframe>
 
 
     </div>
