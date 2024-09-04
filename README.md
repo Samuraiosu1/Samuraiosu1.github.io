@@ -40,7 +40,7 @@ In modern usage, bushi is often used as a synonym for samurai; however, historic
   <body>
     <div id="welcome">
 <div class="embed-container">
- <iframe src="https://dev.blueedge.me/" width="1360" height="675" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ <iframe src="https://dev.blueedge.me/" width="1060" height="500" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
     </div>
   </body>
