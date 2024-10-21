@@ -1,1 +1,5 @@
-<audio src="mistfulplays - (untitled).mp3" width="300" Height="300" controls></audio>
+<audio controls loop>
+  <source src="mistfulplays - (untitled) (1).wav" type="audio/ogg">
+  <source src="mistfulplays - (untitled) (1).wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
