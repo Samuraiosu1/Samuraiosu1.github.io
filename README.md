@@ -1,2 +1,4 @@
-<audio controls loop src="mistfulplays - (untitled) (1).wav" width="300" Height="300" controls>
-</audio>
+<script>
+    var audio = new Audio('https://github.com/user/project/blob/main/audio/sound.mp3?raw=true');
+    audio.play();
+</script>
