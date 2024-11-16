@@ -1,4 +1,13 @@
-
+body{
+    background-image:url ('eeee.jpeg');
+    background-size:cover;
+    background-reapeat:no-reapet;
+    border:solid black;
+    border-width:thick;
+    box-shadow:4px 4px  8px black;
+    z-index: 35;
+    transition-duration: 500ms;
+}
 .back{
     z-index:10;
     opacity: 0;
@@ -28,13 +37,3 @@ h1{
 }
 
 
-
-.windows{
-    background-size:cover;
-    background-reapeat:no-reapet;
-    border:solid black;
-    border-width:thick;
-    box-shadow:4px 4px  8px black;
-    z-index: 35;
-    transition-duration: 500ms;
-}
