@@ -3,6 +3,7 @@ body{
   background-color:lightgrey;
 }
 
-video{
-  
+.back{
+    z-index:-1;
+    opacity: .1;
 }
