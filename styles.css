@@ -30,3 +30,13 @@ h1{
         
     
 }
+
+
+
+.windowss{
+    background-size:cover;
+    background-reapeat:no-reapet;
+    border:solid black;
+    border-width:thick;
+    box-shadow:4px 4px  8px black;
+}
