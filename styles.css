@@ -36,4 +36,5 @@ h1{
     border-width:thick;
     box-shadow:4px 4px  8px black;
     z-index: 35;
+    transition-duration: 500ms;
 }
