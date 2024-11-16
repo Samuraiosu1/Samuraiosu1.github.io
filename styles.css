@@ -11,3 +11,13 @@ body{
     border-style:solid;
     visibility: hidden;
 }
+
+h1{
+    font-size:40px;
+    font-family: sans-serif;
+    letter-space:1.2px;
+    text-shadow: -4px 4px #FF0000,
+                 -8px 8px #FFA500;
+        
+    
+}
