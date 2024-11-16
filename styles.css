@@ -1,7 +1,3 @@
-body{
-    z-index: 34;
-  background-color:lightgrey;
-}
 
 .back{
     z-index:10;
@@ -33,10 +29,11 @@ h1{
 
 
 
-.windowss{
+.windows{
     background-size:cover;
     background-reapeat:no-reapet;
     border:solid black;
     border-width:thick;
     box-shadow:4px 4px  8px black;
+    z-index: 35;
 }
