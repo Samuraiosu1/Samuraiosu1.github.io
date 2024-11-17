@@ -1,1 +1,7 @@
-
+body{
+  position: relative;
+  background-size: cover;
+  background-image: url('thumb-1920-898714.jpg');
+  background-repeat: no-repeat;
+  transition-duration: 1.2s;
+}
