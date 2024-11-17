@@ -37,5 +37,7 @@ h1{
 .google{
   box-shadow:3px 3px 11px black;
   transition-duration:2.3;
+  border:solid black;
+  border-radius:15px;
 }
 
