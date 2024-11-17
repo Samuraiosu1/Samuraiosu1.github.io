@@ -11,7 +11,7 @@ body {
     width: 100%;
 }
 .heading h1 {
-    color: limegreen;
+    color: lightgrey;
     font-size: 70px;
 }
 .heading h3 {
@@ -21,4 +21,23 @@ body {
 #particles-js {
     background: black;
     height: 100vh;
+}
+a{
+    text-decoration:none;
+    cursor:pointer;
+    transition-duration:1.4s;
+}
+
+a:hover{
+    font-size:40px;
+    text-decoration:none;
+    cursor:pointer;
+    transition-duration:1.4s;
+}
+a:active{
+    font-size:60px;
+    color:red;
+    text-decoration:none;
+    cursor:pointer;
+    transition-duration:1.4s;
 }
