@@ -74,6 +74,26 @@ recommend:active{
   cursor:pointer;
   
 }
+
+Geo{
+      box-shadow:3px 3px 11px black;
+  transition-duration:2.3;
+  border:solid black;
+  border-radius:15px;
+  margin-top: 200px;
+  margin:800px -400px;
+  cursor:pointer;
+  margin-left: 10px;
+}
+
+geo:active{
+      box-shadow:4px 4px 15px black;
+  transition-duration:1.1;
+  border:solid black;
+  border-radius:15px;
+  cursor:pointer;
+  
+}
 .google:hover {
   animation: MoveUpDown 1s linear infinite;}
 
