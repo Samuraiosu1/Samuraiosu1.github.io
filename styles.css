@@ -43,6 +43,15 @@ h1{
   cursor:pointer;
 }
 
+.google:active{
+  box-shadow:4px 4px 15px black;
+  transition-duration:1.1;
+  border:solid black;
+  border-radius:15px;
+  margin:100px 150px;
+  cursor:pointer;
+}
+
 .google:hover {
   animation: MoveUpDown 1s linear infinite;}
 
