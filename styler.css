@@ -23,12 +23,14 @@ body {
     height: 100vh;
 }
 a{
+    color:red;
     text-decoration:none;
     cursor:pointer;
     transition-duration:1.4s;
 }
 
 a:hover{
+    color:red;
     font-size:40px;
     text-decoration:none;
     cursor:pointer;
@@ -36,7 +38,7 @@ a:hover{
 }
 a:active{
     font-size:60px;
-    color:red;
+    color:green;
     text-decoration:none;
     cursor:pointer;
     transition-duration:1.4s;
