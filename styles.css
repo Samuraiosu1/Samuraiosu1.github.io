@@ -28,8 +28,14 @@ h1{
                -28px 28px #eeff41,
                -32px 32px #f9a825,
                -36px 36px #ff5722;
+    transition-duration: 4.5s;
         
     
 }
 
+
+.google{
+  box-shadow:3px 3px 11px black;
+  transition-duration:2.3;
+}
 
