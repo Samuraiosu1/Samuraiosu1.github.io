@@ -53,6 +53,27 @@ h1{
   cursor:pointer;
 }
 
+
+.recommend{
+    box-shadow:3px 3px 11px black;
+  transition-duration:2.3;
+  border:solid black;
+  border-radius:15px;
+  margin-top: 100px;
+  margin:10px 10px;
+  cursor:pointer;
+  margin-left: 10px;
+  
+}
+
+recommend:active{
+    box-shadow:4px 4px 15px black;
+  transition-duration:1.1;
+  border:solid black;
+  border-radius:15px;
+  cursor:pointer;
+  
+}
 .google:hover {
   animation: MoveUpDown 1s linear infinite;}
 
