@@ -75,7 +75,7 @@ recommend:active{
   
 }
 
-Geo{
+.Geo{
       box-shadow:3px 3px 11px black;
   transition-duration:2.3;
   border:solid black;
@@ -86,7 +86,7 @@ Geo{
   margin-left: 10px;
 }
 
-geo:active{
+.Geo:active{
       box-shadow:4px 4px 15px black;
   transition-duration:1.1;
   border:solid black;
