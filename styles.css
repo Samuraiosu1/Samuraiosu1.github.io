@@ -4,16 +4,9 @@ body{
   background-image: url('Windows_Final_3840p_v10_opt.png');
   background-repeat: no-repeat;
   transition-duration: 1.2s;
-}
-
-body:hover{
-  position: relative;
-  background-size: cover;
-  background-image: url('Windows_Final_3840p_v10_opt.png');
-  background-repeat: no-repeat;
-  transition-duration: 1.2s;
   cursor:url ('img/diamond.png'), auto;
 }
+
 .back{
     opacity: 0;
     border: 10px red;
