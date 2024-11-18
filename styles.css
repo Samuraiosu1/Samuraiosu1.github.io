@@ -4,6 +4,9 @@ body{
   background-image: url('Windows_Final_3840p_v10_opt.png');
   background-repeat: no-repeat;
   transition-duration: 1.2s;
+   height: 100vh;
+  width: 100vw;
+  cursor:url ('img/diamond.png'), auto;
 }
 .back{
     opacity: 0;
