@@ -36,7 +36,7 @@ h1{
 
 .google{
   box-shadow:3px 3px 11px black;
-  transition-duration:2.3;
+  transition-duration:2.3s;
   border:solid black;
   border-radius:15px;
   margin:1100px -1300px;
@@ -45,7 +45,7 @@ h1{
 
 .google:active{
   box-shadow:4px 4px 15px black;
-  transition-duration:1.1;
+  transition-duration:1.1s;
   border:solid black;
   border-radius:15px;
   cursor:pointer;
@@ -54,7 +54,7 @@ h1{
 
 .recommend{
     box-shadow:3px 3px 11px black;
-  transition-duration:2.3;
+  transition-duration:2.3s;
   border:solid black;
   border-radius:15px;
   margin:1100px -1350px;
@@ -62,9 +62,9 @@ h1{
   
 }
 
-recommend:active{
+.recommend:active{
     box-shadow:4px 4px 15px black;
-  transition-duration:1.1;
+  transition-duration:1.1s;
   border:solid black;
   border-radius:15px;
   cursor:pointer;
@@ -73,7 +73,7 @@ recommend:active{
 
 .Geo{
       box-shadow:3px 3px 11px black;
-  transition-duration:2.3;
+  transition-duration:2.3s;
   border:solid black;
   border-radius:15px;
   margin:1100px -1400px;
@@ -82,7 +82,7 @@ recommend:active{
 
 .Geo:active{
       box-shadow:4px 4px 15px black;
-  transition-duration:1.1;
+  transition-duration:1.1s;
   border:solid black;
   border-radius:15px;
   cursor:pointer;
