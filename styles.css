@@ -39,7 +39,7 @@ h1{
   transition-duration:2.3s;
   border:solid black;
   border-radius:15px;
-  margin:100px 200px;
+  margin:200px 100px;
   cursor:pointer;
 }
 
@@ -57,7 +57,7 @@ h1{
   transition-duration:2.3s;
   border:solid black;
   border-radius:15px;
-  margin:100px 100px;
+  margin:200px 200px;
   cursor:pointer;
   
 }
@@ -76,7 +76,7 @@ h1{
   transition-duration:2.3s;
   border:solid black;
   border-radius:15px;
-  margin:100px 300px;
+  margin:200px 300px;
   cursor:pointer;
 }
 
